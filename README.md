@@ -10,6 +10,10 @@ CyberDorm is a Python-based network scanning tool designed to enumerate hosts in
 - CVE lookup against a local JSON database.
 - PDF report generation with vulnerabilities highlighted by severity.
 
+## Working scheme
+
+<img src='CyberDorm.png'>
+
 ## Requirements
 
 - Python 3.13+
